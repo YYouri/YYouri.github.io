@@ -73,10 +73,10 @@
 
 ### ● 여러 줄 코드 블록
 
-\`\`\`python
+```python
 def greet():
     print("Hello Markdown!")
-\`\`\`
+```
 
 ---
 
